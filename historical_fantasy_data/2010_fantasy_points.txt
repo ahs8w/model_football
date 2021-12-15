@@ -1,0 +1,17 @@
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
