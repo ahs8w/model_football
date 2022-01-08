@@ -7572,3 +7572,4 @@ Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
 17;2021;7014;Jacksonville;Def;jac;a;nwe;-2;3200
 17;2021;7011;Detroit;Def;det;a;sea;-3;3500
 17;2021;7017;Minnesota;Def;min;a;gnb;-4;3600
+Week;Year;GID;Name;Pos;Team;h/a;Oppt;FD points;FD salary
