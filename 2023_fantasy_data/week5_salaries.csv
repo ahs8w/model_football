@@ -1,0 +1,316 @@
+player,pos,year,week,dk_salary,fantasy_score
+"Baltimore, Ravens",DST,2023,5,$3200,13.9
+"Washington, Commanders",DST,2023,5,$2400,10.1
+"Buffalo, Bills",DST,2023,5,$2700,11.2
+"Arizona, Cardinals",DST,2023,5,$2200,8.9
+"Miami, Dolphins",DST,2023,5,$2600,9.9
+"Las Vegas, Raiders",DST,2023,5,$2300,8.5
+"New York Jets, Jets",DST,2023,5,$2600,9.4
+"Carolina, Panthers",DST,2023,5,$2500,8.6
+"Philadelphia, Eagles",DST,2023,5,$4100,14.1
+"Atlanta, Falcons",DST,2023,5,$2700,9.1
+"Swift, D'Andre",RB,2023,5,$5700,18.9
+"Indianapolis, Colts",DST,2023,5,$2900,9.4
+"Kupp, Cooper",WR,2023,5,$3000,9.7
+"New England, Patriots",DST,2023,5,$3000,9.6
+"Green Bay, Packers",DST,2023,5,$2900,9.3
+"Houston, Texans",DST,2023,5,$2900,9.2
+"New Orleans, Saints",DST,2023,5,$3600,11.4
+"Robinson, Bijan",RB,2023,5,$7700,24.2
+"Chicago, Bears",DST,2023,5,$2700,8.4
+"Williams, Kyren",RB,2023,5,$6000,17.9
+"New York Giants, Giants",DST,2023,5,$2800,8.3
+"Robinson Jr., Brian",RB,2023,5,$5600,16.4
+"Detroit, Lions",DST,2023,5,$3300,9.6
+"Jacobs, Josh",RB,2023,5,$7100,20.5
+"Mixon, Joe",RB,2023,5,$6400,18.3
+"Los Angeles, Rams",DST,2023,5,$3000,8.6
+"Kincaid, Dalton",TE,2023,5,$3200,8.9
+"Achane, De'Von",RB,2023,5,$5700,15.8
+"Jacksonville, Jaguars",DST,2023,5,$3400,9.3
+"McCaffrey, Christian",RB,2023,5,$9200,24.6
+"Etienne Jr., Travis",RB,2023,5,$7200,19.3
+"Tennessee, Titans",DST,2023,5,$3400,9.1
+"Henry, Derrick",RB,2023,5,$7000,18.5
+"Pacheco, Isiah",RB,2023,5,$5500,14.6
+"LaPorta, Sam",TE,2023,5,$4600,12.2
+"Denver, Broncos",DST,2023,5,$3700,9.8
+"Montgomery, David",RB,2023,5,$5900,15.5
+"McLaughlin, Jaleel",RB,2023,5,$4000,10.5
+"Dallas, Cowboys",DST,2023,5,$4000,10.4
+"Pollard, Tony",RB,2023,5,$7800,20.0
+"Kamara, Alvin",RB,2023,5,$6100,15.6
+"Taylor, Jonathan",RB,2023,5,$4000,10.3
+"Jones, Aaron",RB,2023,5,$6800,17.1
+"Cook, James",RB,2023,5,$6300,15.7
+"Cincinnati, Bengals",DST,2023,5,$3800,9.5
+"Ferguson, Jake",TE,2023,5,$3500,8.7
+"Herbert, Khalil",RB,2023,5,$4700,11.7
+"San Francisco, 49ers",DST,2023,5,$4700,11.5
+"Minnesota, Vikings",DST,2023,5,$3500,8.6
+"Pierce, Dameon",RB,2023,5,$5100,12.3
+"Hall, Breece",RB,2023,5,$5500,13.2
+"Pittsburgh, Steelers",DST,2023,5,$3900,9.4
+"Kansas City, Chiefs",DST,2023,5,$4200,10.0
+"Andrews, Mark",TE,2023,5,$5400,12.7
+"Collins, Nico",WR,2023,5,$5100,11.9
+"Warren, Jaylen",RB,2023,5,$5000,11.6
+"McLaurin, Terry",WR,2023,5,$5300,12.1
+"Wilson, Michael",WR,2023,5,$3500,8.0
+"Rice, Rashee",WR,2023,5,$3600,8.2
+"Conner, James",RB,2023,5,$5900,13.4
+"Stevenson, Rhamondre",RB,2023,5,$6200,14.0
+"Downs, Josh",WR,2023,5,$3500,7.8
+"Flowers, Zay",WR,2023,5,$5600,12.4
+"Mattison, Alexander",RB,2023,5,$5800,12.8
+"Mostert, Raheem",RB,2023,5,$6500,14.3
+"Brown, Marquise",WR,2023,5,$5000,10.9
+"Harris, Najee",RB,2023,5,$5500,12.0
+"Musgrave, Luke",TE,2023,5,$3300,7.1
+"Dell, Tank",WR,2023,5,$4600,9.9
+"Robinson, Wan'Dale",WR,2023,5,$3000,6.4
+"Kittle, George",TE,2023,5,$5100,10.9
+"Ertz, Zach",TE,2023,5,$3200,6.8
+"Smith, Jonnu",TE,2023,5,$2600,5.6
+"Kirk, Christian",WR,2023,5,$5500,11.7
+"Goedert, Dallas",TE,2023,5,$4400,9.4
+"Spears, Tyjae",RB,2023,5,$4700,10.0
+"Aiyuk, Brandon",WR,2023,5,$6200,13.1
+"Sanders, Miles",RB,2023,5,$5800,12.2
+"Edwards, Gus",RB,2023,5,$5200,10.9
+"Allgeier, Tyler",RB,2023,5,$5000,10.4
+"Perine, Samaje",RB,2023,5,$4700,9.8
+"Thielen, Adam",WR,2023,5,$4500,9.3
+"Kelce, Travis",TE,2023,5,$7400,15.2
+"Pickens, George",WR,2023,5,$5400,11.1
+"Hockenson, T.J.",TE,2023,5,$6500,13.4
+"Gibson, Antonio",RB,2023,5,$4600,9.4
+"Olave, Chris",WR,2023,5,$7100,14.5
+"Pittman Jr., Michael",WR,2023,5,$6500,13.2
+"Waller, Darren",TE,2023,5,$5500,11.2
+"Gibbs, Jahmyr",RB,2023,5,$6600,13.4
+"Reed, Jayden",WR,2023,5,$4000,8.1
+"Hill, Tyreek",WR,2023,5,$9200,18.4
+"Hubbard, Chuba",RB,2023,5,$4800,9.6
+"Nacua, Puka",WR,2023,5,$6700,13.3
+"Shaheed, Rashid",WR,2023,5,$4000,8.0
+"Austin III, Calvin",WR,2023,5,$3300,6.6
+"Pitts, Kyle",TE,2023,5,$3700,7.4
+"Brown, A.J.",WR,2023,5,$7700,15.3
+"Lamb, CeeDee",WR,2023,5,$7500,14.9
+"Johnson, Roschon",RB,2023,5,$4900,9.7
+"St. Brown, Amon-Ra",WR,2023,5,$7800,15.4
+"Samuel, Curtis",WR,2023,5,$3500,6.9
+"Doubs, Romeo",WR,2023,5,$4700,9.2
+"Diggs, Stefon",WR,2023,5,$8100,15.8
+"Higbee, Tyler",TE,2023,5,$4200,8.2
+"Dillon, AJ",RB,2023,5,$5600,10.9
+"Adams, Davante",WR,2023,5,$8000,15.5
+"Hurst, Hayden",TE,2023,5,$3300,6.4
+"Davis, Gabe",WR,2023,5,$5900,11.4
+"Engram, Evan",TE,2023,5,$4700,9.0
+"Moore, DJ",WR,2023,5,$5600,10.7
+"Schultz, Dalton",TE,2023,5,$3200,6.1
+"Chase, Ja'Marr",WR,2023,5,$7800,14.7
+"Moss, Zack",RB,2023,5,$6000,11.4
+"Waddle, Jaylen",WR,2023,5,$7600,14.3
+"McKinnon, Jerick",RB,2023,5,$4800,9.0
+"Thomas, Logan",TE,2023,5,$3100,5.8
+"Samuel, Deebo",WR,2023,5,$6900,12.8
+"Meyers, Jakobi",WR,2023,5,$5500,10.3
+"Singletary, Devin",RB,2023,5,$4400,8.2
+"Dotson, Jahan",WR,2023,5,$4800,8.9
+"Moore, Skyy",WR,2023,5,$4400,8.1
+"Reynolds, Josh",WR,2023,5,$4100,7.5
+"Ridley, Calvin",WR,2023,5,$6900,12.6
+"Chark Jr., DJ",WR,2023,5,$4000,7.3
+"Moore, Rondale",WR,2023,5,$3300,6.0
+"Smith, DeVonta",WR,2023,5,$7500,13.6
+"Wilson, Garrett",WR,2023,5,$6400,11.5
+"London, Drake",WR,2023,5,$4800,8.6
+"Hopkins, DeAndre",WR,2023,5,$5800,10.4
+"Woods, Robert",WR,2023,5,$4300,7.7
+"Addison, Jordan",WR,2023,5,$5700,10.2
+"Watson, Christian",WR,2023,5,$5900,10.4
+"Agholor, Nelson",WR,2023,5,$3400,6.0
+"Mims Jr., Marvin",WR,2023,5,$3900,6.8
+"Knox, Dawson",TE,2023,5,$3100,5.4
+"Slayton, Darius",WR,2023,5,$4000,7.0
+"Jefferson, Justin",WR,2023,5,$9600,16.7
+"Boyd, Tyler",WR,2023,5,$4100,7.1
+"Okonkwo, Chig",TE,2023,5,$3100,5.3
+"Cook, Dalvin",RB,2023,5,$5400,9.3
+"Gainwell, Kenneth",RB,2023,5,$5200,8.9
+"Sutton, Courtland",WR,2023,5,$5300,9.0
+"Gray, Noah",TE,2023,5,$2800,4.7
+"Osborn, K.J.",WR,2023,5,$4200,7.0
+"Parker, DeVante",WR,2023,5,$4000,6.7
+"Kmet, Cole",TE,2023,5,$4000,6.7
+"Gallup, Michael",WR,2023,5,$3700,6.1
+"Valdes-Scantling, Marquez",WR,2023,5,$4100,6.8
+"Trautman, Adam",TE,2023,5,$2800,4.6
+"Elliott, Ezekiel",RB,2023,5,$5100,8.4
+"Conklin, Tyler",TE,2023,5,$3200,5.3
+"Smythe, Durham",TE,2023,5,$3000,4.9
+"Thomas, Michael",WR,2023,5,$5200,8.4
+"Miller, Kendre",RB,2023,5,$4400,7.0
+"Breida, Matt",RB,2023,5,$5400,8.6
+"Akers, Cam",RB,2023,5,$4900,7.8
+"Bigsby, Tank",RB,2023,5,$4600,7.3
+"Robinson II, Allen",WR,2023,5,$3600,5.7
+"Hill, Justice",RB,2023,5,$4800,7.6
+"Watson, Justin",WR,2023,5,$3500,5.5
+"Edwards-Helaire, Clyde",RB,2023,5,$4300,6.7
+"Atwell, Tutu",WR,2023,5,$5500,8.5
+"Barkley, Saquon",RB,2023,5,$8100,12.5
+"Cooks, Brandin",WR,2023,5,$4900,7.5
+"Pierce, Alec",WR,2023,5,$3400,5.2
+"Murray, Latavius",RB,2023,5,$4700,7.2
+"Mooney, Darnell",WR,2023,5,$4100,6.2
+"Hudson, Tanner",TE,2023,5,$2500,3.8
+"Granson, Kylen",TE,2023,5,$3000,4.5
+"Gesicki, Mike",TE,2023,5,$2800,4.2
+"Bourne, Kendrick",WR,2023,5,$5000,7.2
+"Campbell, Parris",WR,2023,5,$3200,4.5
+"Henry, Hunter",TE,2023,5,$4300,6.0
+"Harris, Damien",RB,2023,5,$4500,6.3
+"McBride, Trey",TE,2023,5,$2600,3.6
+"Rivers, Ronnie",RB,2023,5,$4500,6.2
+"Carter, Michael",RB,2023,5,$4100,5.6
+"Harty, Deonte",WR,2023,5,$3100,4.3
+"Mayer, Michael",TE,2023,5,$2500,3.4
+"Dowdle, Rico",RB,2023,5,$4700,6.5
+"Toney, Kadarius",WR,2023,5,$4300,5.8
+"Mason, Jordan",RB,2023,5,$4000,5.4
+"Hyatt, Jalin",WR,2023,5,$3500,4.7
+"Hollins, Mack",WR,2023,5,$3400,4.6
+"Renfrow, Hunter",WR,2023,5,$3700,4.9
+"Berrios, Braxton",WR,2023,5,$3600,4.7
+"Raymond, Kalif",WR,2023,5,$3400,4.5
+"Douglas, Demario",WR,2023,5,$3000,4.0
+"Hooper, Austin",TE,2023,5,$2500,3.3
+"Johnson, Brandon",WR,2023,5,$3200,4.2
+"Jeudy, Jerry",WR,2023,5,$6600,8.6
+"Zaccheaus, Olamide",WR,2023,5,$3300,4.3
+"Williams, Jameson",WR,2023,5,$3000,3.9
+"Lazard, Allen",WR,2023,5,$4200,5.4
+"Jefferson, Van",WR,2023,5,$4000,5.1
+"Marshall Jr., Terrace",WR,2023,5,$3500,4.5
+"Likely, Isaiah",TE,2023,5,$2700,3.5
+"Smith-Schuster, JuJu",WR,2023,5,$3900,4.9
+"Duvernay, Devin",WR,2023,5,$3000,3.8
+"Hill, Taysom",TE,2023,5,$4500,5.7
+"Johnson, Juwan",TE,2023,5,$3300,4.1
+"Williams, Javonte",RB,2023,5,$5500,6.8
+"Ross, Justyn",WR,2023,5,$3000,3.7
+"Jones Jr., Tony",RB,2023,5,$4700,5.8
+"Gordon III, Melvin",RB,2023,5,$4900,5.9
+"Washington, Darnell",TE,2023,5,$2500,3.0
+"Cobb, Randall",WR,2023,5,$3000,3.6
+"Graham, Jimmy",TE,2023,5,$2500,2.9
+"Shenault Jr., Laviska",WR,2023,5,$3000,3.5
+"Hodgins, Isaiah",WR,2023,5,$4600,5.3
+"Freiermuth, Pat",TE,2023,5,$3400,3.9
+"Scott, Tyler",WR,2023,5,$3000,3.3
+"Williams, Trayveon",RB,2023,5,$4700,5.2
+"Vaughn, Deuce",RB,2023,5,$4200,4.7
+"Patterson, Cordarrelle",RB,2023,5,$4000,4.4
+"Jones Jr., Marvin",WR,2023,5,$3100,3.4
+"Bates, John",TE,2023,5,$2800,3.1
+"Sermon, Trey",RB,2023,5,$4000,4.4
+"Reynolds, Craig",RB,2023,5,$4400,4.8
+"Wilson Jr., Jeff",RB,2023,5,$4000,4.3
+"Demercado, Emari",RB,2023,5,$4000,4.3
+"Turner, Cole",TE,2023,5,$2700,2.8
+"Juszczyk, Kyle",RB,2023,5,$4000,4.2
+"Moore, Chris",WR,2023,5,$3000,3.1
+"White, Zamir",RB,2023,5,$4900,5.1
+"Metchie III, John",WR,2023,5,$3100,3.2
+"Abdullah, Ameer",RB,2023,5,$4400,4.5
+"Brown, Pharaoh",TE,2023,5,$2500,2.5
+"Brown, Dyami",WR,2023,5,$3000,3.0
+"Sherfield, Trent",WR,2023,5,$3000,2.9
+"Wicks, Dontayvion",WR,2023,5,$3300,3.2
+"Brown, Chase",RB,2023,5,$4000,3.9
+"Jones, Tim",WR,2023,5,$3000,2.9
+"Chandler, Ty",RB,2023,5,$4400,4.2
+"Mingo, Jonathan",WR,2023,5,$3400,3.2
+"Brightwell, Gary",RB,2023,5,$4800,4.6
+"Wilcox, Mitchell",TE,2023,5,$2500,2.4
+"Heyward, Connor",TE,2023,5,$2500,2.3
+"Boone, Mike",RB,2023,5,$4000,3.7
+"St. Brown, Equanimeous",WR,2023,5,$3000,2.7
+"Oliver, Josh",TE,2023,5,$2500,2.3
+"Hardman Jr., Mecole",WR,2023,5,$3000,2.6
+"McKenzie, Isaiah",WR,2023,5,$3000,2.6
+"Higgins, Tee",WR,2023,5,$6800,5.8
+"Bellinger, Daniel",TE,2023,5,$2500,2.2
+"Johnson, D'Ernest",RB,2023,5,$4500,3.9
+"Pascal, Zach",WR,2023,5,$3000,2.5
+"Scott, Boston",RB,2023,5,$4800,4.0
+"Bell, Ronnie",WR,2023,5,$3400,2.8
+"Ruckert, Jeremy",TE,2023,5,$2500,2.0
+"Ingram, Keaontay",RB,2023,5,$4600,3.7
+"Taylor, Patrick",RB,2023,5,$4400,3.6
+"Mitchell, Keaton",RB,2023,5,$4000,3.2
+"Schoonmaker, Luke",TE,2023,5,$2500,2.0
+"Uzomah, C.J.",TE,2023,5,$2500,1.9
+"Tolbert, Jalen",WR,2023,5,$3100,2.3
+"Wilson, Emanuel",RB,2023,5,$4000,3.0
+"Hasty, JaMycal",RB,2023,5,$4000,3.0
+"Deguara, Josiah",TE,2023,5,$2500,1.8
+"McCloud III, Ray-Ray",WR,2023,5,$3000,2.2
+"Thomas, Ian",TE,2023,5,$2500,1.8
+"Iosivas, Andrei",WR,2023,5,$3000,2.1
+"Gray, Eric",RB,2023,5,$4000,2.9
+"Turpin, KaVontae",WR,2023,5,$3000,2.1
+"Tonyan, Robert",TE,2023,5,$2500,1.7
+"Knight, Zonovan",RB,2023,5,$4000,2.8
+"Hodge, KhaDarel",WR,2023,5,$3000,2.0
+"Wilson Jr., Cedrick",WR,2023,5,$3000,2.0
+"Mahomes, Patrick",QB,2023,5,$8300,5.4
+"Ahmed, Salvon",RB,2023,5,$4600,2.9
+"Ham, C.J.",RB,2023,5,$4000,2.6
+"Richardson, Anthony",QB,2023,5,$6700,4.2
+"Gilliam, Reggie",RB,2023,5,$4000,2.5
+"Allen, Josh",QB,2023,5,$8200,5.0
+"Tagovailoa, Tua",QB,2023,5,$7400,4.4
+"Luepke, Hunter",RB,2023,5,$4000,2.3
+"Hurts, Jalen",QB,2023,5,$8000,4.6
+"Drake, Kenyan",RB,2023,5,$4400,2.5
+"Jackson, Lamar",QB,2023,5,$7700,4.3
+"Johnson, Jakob",RB,2023,5,$4000,2.2
+"Cousins, Kirk",QB,2023,5,$7100,3.8
+"Goff, Jared",QB,2023,5,$6300,3.1
+"Howell, Sam",QB,2023,5,$5000,2.4
+"Brooks, Chris",RB,2023,5,$4100,1.9
+"Evans, Chris",RB,2023,5,$4400,2.0
+"McBride, DeWayne",RB,2023,5,$4000,1.8
+"Lawrence, Trevor",QB,2023,5,$6800,3.0
+"Love, Jordan",QB,2023,5,$5700,2.5
+"Davis-Price, Tyrion",RB,2023,5,$4000,1.7
+"Fields, Justin",QB,2023,5,$6600,2.8
+"Mitchell, Elijah",RB,2023,5,$4600,1.8
+"Burrow, Joe",QB,2023,5,$6500,2.6
+"Gaskin, Myles",RB,2023,5,$4300,1.7
+"Jones, Daniel",QB,2023,5,$5600,2.1
+"Stroud, C.J.",QB,2023,5,$5600,2.0
+"Dobbs, Joshua",QB,2023,5,$5000,1.6
+"Purdy, Brock",QB,2023,5,$5900,1.8
+"Stafford, Matthew",QB,2023,5,$5700,1.7
+"Prescott, Dak",QB,2023,5,$6200,1.6
+"Wilson, Russell",QB,2023,5,$5800,1.4
+"Wilson, Zach",QB,2023,5,$4900,1.2
+"Young, Bryce",QB,2023,5,$5200,1.1
+"Garoppolo, Jimmy",QB,2023,5,$5300,0.9
+"Carr, Derek",QB,2023,5,$5500,0.8
+"Jones, Mac",QB,2023,5,$5200,0.7
+"Tannehill, Ryan",QB,2023,5,$5000,0.7
+"Ridder, Desmond",QB,2023,5,$5000,0.6
+"Trubisky, Mitch",QB,2023,5,$4800,0.5
+"O'Connell, Aidan",QB,2023,5,$4000,0.4
+"Pickett, Kenny",QB,2023,5,$5100,0.4
+"Dalton, Andy",QB,2023,5,$5100,0.4
+"Winston, Jameis",QB,2023,5,$5300,0.2
+"Minshew II, Gardner",QB,2023,5,$5100,0.2
+"Hoyer, Brian",QB,2023,5,$4900,0.2
