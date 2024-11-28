@@ -4,3 +4,5 @@ numpy
 pulp
 selenium
 lxml
+openpyxl
+matplotlib
